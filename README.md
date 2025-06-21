@@ -46,8 +46,8 @@ Me destaco por mi responsabilidad, autonomía y capacidad de trabajo en equipo. 
 
 ## 🌐 Enlaces de interés
 
-- 🌍 [Mi sitio web personal (si aplica)](https://jesusdavidchinchillamachuca.github.io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jesusdavidchinchillamachuca)
+- 🌍 [Mi sitio web personal (si aplica)](https://github.com/JesusDavidChinchillaMachuca)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jesusdavid-chinchilla-93a122191/)
 - 👨‍💻 [HackerRank](https://www.hackerrank.com/)
 - 🧩 [FrontendMentor](https://www.frontendmentor.io/)
 
